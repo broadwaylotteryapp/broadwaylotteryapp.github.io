@@ -14,12 +14,15 @@ The user may refuse the request for personal information, with the understanding
 
 #### Information Collection And Use
 ##### Types of Data Collected
-- Personal Data
+#### Personal Data
 For a better experience, while using our service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data") while using our service.
 
 Personally identifiable information may include, but is not limited to:
 - Usage Data
 - Cookies
+
+#### Note:
+We do not store or collect the information used to auto-fill the lotteries. This information is stored internally in the application. This information can be removed either by deleting the application from the device, or by clearing the data storage of the application.
 
 The service also uses third party services that may collect Personal Data. Below are links to the privacy policy of third party service providers used by the service:
 
